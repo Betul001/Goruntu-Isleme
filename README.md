@@ -1,4 +1,5 @@
 # Goruntu-Isleme
+#gray scale görüntünün histogramını, hazır fonksiyon kullanmadan python ile bulma
 
 #02200201062
 #FATIMA BETÜL MEMDUHOĞLU
