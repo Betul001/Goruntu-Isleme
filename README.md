@@ -38,7 +38,7 @@ def Plot_Histogram(Histogram):
 
 
 def main():
-    Input_Image = cv.imread("C:\\Users\Bilgisayar\Desktop\Python\\lena.jpeg")  # görüntüyü okuyan kısım
+    Input_Image = cv.imread("C:\\Users\Bilgisayar\Desktop\Python\\istanbul.jpg")  # görüntüyü okuyan kısım
 
     Histogram = Histogram_Computation(Input_Image)
 
